@@ -12,3 +12,6 @@ For now only launching projects for my future portfolio, programming, hacking an
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg">
   
 </div>
+- codewars
+- replit
+-freecodecamp 
