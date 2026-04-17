@@ -15,8 +15,3 @@ First projects coming soon.
   
   
 </div>
-- codewars 
--replit 
--freecodecamp
-- youtube
-- artificial Intelligence
