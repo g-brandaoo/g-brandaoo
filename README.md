@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&pause=1000&color=432095&width=435&lines=Currently+studying+and+always+coding+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&pause=1000&color=432095&center=true&width=435&lines=Cursando%2C+codando+e+projetando.+)](https://git.io/typing-svg)
 
 Estou começando minha jornada na programação. 
 Atualmente estou aprendendo HTML, CSS, Python e JavaScript.
