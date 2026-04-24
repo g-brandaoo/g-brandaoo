@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&pause=1000&color=432095&width=435&lines=Currently+studying+and+always+coding+)](https://git.io/typing-svg)
 
-I’m starting my journey in programming.
-Currently learning HTML, CSS, Python and JavaScript.
+Estou começando minha jornada na programação. 
+Atualmente estou aprendendo HTML, CSS, Python e JavaScript.
 
-First projects coming soon. 
+Primeiros projetos em breve. 
 
 
 
