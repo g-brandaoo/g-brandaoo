@@ -14,8 +14,4 @@ Primeiros projetos em breve.
   <img width="40"  src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg">
   <img width="40"
   src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C.svg">
-  
-  
 </div>
-
-![image alt](https://github.com/g-brandaoo/imglinux/blob/27c7e1a40a1da32ab3f11f7db4ca7731c798d19d/pngwing.com.png)  
