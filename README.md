@@ -1,15 +1,7 @@
-<table>
-<tr>
-<td>
+<div align="center">
 
-[![window widget](https://window-lemon.vercel.app/api/Window?titleBar=gbrandaoo&title=cyberstudent&desc=Focused+on+Linux%2C+Networks%2C+Python%2C+Bash+and+low-level+systems.&theme=dark)](https://github.com/g-brandaoo)
+<img src="https://window-lemon.vercel.app/api/Window?titleBar=gbrandaoo&title=cyberstudent&desc=Focused+on+Linux%2C+Networks%2C+Python%2C+Bash+and+low-level+systems.&theme=dark" width="430" />
 
-</td>
+<img src="https://i.imgur.com/UjHEVcR.png" width="260" />
 
-<td>
-
-<img src="https://i.imgur.com/UjHEVcR.png" width="220">
-
-</td>
-</tr>
-</table>
+</div>
