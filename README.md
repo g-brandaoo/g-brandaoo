@@ -14,3 +14,5 @@ src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bash-Dark
   <img width="40"
 src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg">
   <img width="40"
+   
+![Image](https://github.com/g-brandaoo/images/blob/main/linux.png)
