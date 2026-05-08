@@ -6,7 +6,7 @@
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
   <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg">
-  
-  <p align="right" 
-  </p
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg"> 
+</div>
+
+<div align="right"
