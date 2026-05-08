@@ -11,4 +11,6 @@ Primeiros projetos em breve.
 src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C.svg">
   <img width="40"
 src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bash-Dark.svg">
-</div>
+  <img width="40"
+src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg">
+  <img width="40"
