@@ -1,12 +1,9 @@
-<div align="left" style="display: inline_block"><br>
-<img width="40"  src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg">
-  <img width="40"  src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg">
-  <img width="40"
-src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C.svg">
-  <img width="40"
-src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bash-Dark.svg">
-  <img width="40"
-src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg">
-  <img width="40"
+<div align="center">
+  <img src="https://i.imgur.com/UjHEVcR.png" width="180px" align="right" style="margin-right:20px;" />
+
+  
+
+  <p>
+    I am starting my journey in programming. Currently, I am learning HTML, CSS, JavaScript, Python, Bash, and C. First projects soon.
+  </p>
+</div>
