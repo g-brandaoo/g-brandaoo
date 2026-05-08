@@ -1,9 +1,15 @@
-<div align="center">
-  <img src="https://i.imgur.com/UjHEVcR.png" width="180px" align="right" style="margin-right:20px;" />
+<table>
+<tr>
+<td>
 
-  
+[![window widget](https://window-lemon.vercel.app/api/Window?titleBar=gbrandaoo&title=Linux+%26+Cybersecurity&desc=Focused+on+Linux%2C+Networks%2C+Python%2C+Bash+and+low-level+systems.&theme=dark)](https://github.com/g-brandaoo)
 
-  <p>
-    I am starting my journey in programming. Currently, I am learning HTML, CSS, JavaScript, Python, Bash, and C. First projects soon.
-  </p>
-</div>
+</td>
+
+<td>
+
+<img src="https://i.imgur.com/UjHEVcR.png" width="220">
+
+</td>
+</tr>
+</table>
