@@ -21,3 +21,11 @@ best market.
 </p>
 
 ---
+<p align="left">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&duration=2000&pause=1000&color=F7F7F7&width=435&lines=Specialties" alt="Typing SVG" /></a>
+</p>
+<div align="right">
+  <img src="https://github.com/g-brandaoo/images/blob/main/enter.png" width="43%" alt="Frame"/>
+</div>
+
+---
