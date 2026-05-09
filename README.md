@@ -1,6 +1,6 @@
 <!-- BANNER -->
 <div align="center">
-  <img src="https://github.com/g-brandaoo/images/blob/main/4k_2_4MB-removebg-preview.png" width="100%" alt="banner"/>
+  <img src="https://github.com/g-brandaoo/g-brandaoo/blob/main/banner.png" width="100%" alt="banner"/>
 </div>
 
 ---
