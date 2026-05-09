@@ -5,8 +5,6 @@
 
 ---
 
-<img align="right" src="https://github.com/g-brandaoo/images/blob/main/1d17cac5-4f16-4a1f-99a3-a715dc8dcd25-removebg-preview.png" width="250"/>
-
 <!-- TITLE --> 
 <p align="left"> 
 <a href="https://git.io/typing-svg">
@@ -20,7 +18,6 @@ It's my life project for the future
 I have a lot to learn. but I hope to be developing myself to
 
 best market.
-
 </p>
 
 ---
