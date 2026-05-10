@@ -24,7 +24,7 @@ best market.
 ---
 
 <p align="left">
-<img href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&duration=2000&pause=1000&color=F7F7F7&width=435&lines=Specialties:" alt="Typing SVG" />
+<img href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&duration=2000&pause=1000&color=F7F7F7&width=435&lines=Tech-Stack" alt="Typing SVG" />
  
   <div align="center" style="display: inline_block"><br>
   <img width="80" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Linux-Dark.svg">
