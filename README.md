@@ -31,6 +31,8 @@ best market.
   <img width="80" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bash-Dark.svg">
   <img width="80" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg">
   <img width="80" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
+  <img width="80" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Docker.svg">
+  
   
   </p>
   </div>
